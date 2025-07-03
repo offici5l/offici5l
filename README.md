@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=offici5l" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=offici5l" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=offici5l" />
-</p>
+
+| <a href="https://github.com/reveny"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=offici5l&show_icons=true&theme=github_dark&hide_border=true" alt="reveny's github stats" /></a> | <a href="https://github.com/offici5l"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=offici5l&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
+| ------------- | ------------- |
