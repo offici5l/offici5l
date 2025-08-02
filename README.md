@@ -1,3 +1,3 @@
 
-| <a href="https://github.com/reveny"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=offici5l&show_icons=true&theme=github_dark&hide_border=true" alt="reveny's github stats" /></a> | <a href="https://github.com/offici5l"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=offici5l&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
+| <a href="https://github.com/offici5l"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=offici5l&show_icons=true&theme=github_dark&hide_border=true" alt="offici5l's github stats" /></a> | <a href="https://github.com/offici5l"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=offici5l&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
 | ------------- | ------------- |
